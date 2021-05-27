@@ -1,0 +1,84 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-color: thistle;
+}
+
+.header_div{
+    background-color: palevioletred;
+    color: white;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.webcam_div{
+    margin-top: 15px;
+    border: 2px solid white;
+    width: 350px;
+    margin-left: 275px;
+}
+
+.webcam_div label{
+    width: 100%;
+    font-size: 20px;
+    background-color: white;
+    height: 35px;
+}
+
+#camera{
+    height: 310px;
+}
+
+.webcam_div button{
+    width: 350px;
+    font-size: 16px;
+}
+
+.pic_div{
+    margin-top: 15px;
+    border: 2px solid white;
+    width: 350px;
+    margin-left: 300px;
+}
+
+.pic_div label{
+    width: 350px;
+    font-size: 20px;
+    background-color: white;
+    height: 35px;
+}
+
+#snapshot{
+    height: 310px;
+}
+
+.pic_div button{
+    width: 350px;
+    font-size: 16px;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px white;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: darkgrey;
+    bottom: 0;
+    width: 100%;
+    background-color: snow;
+    line-height: 3;
+    text-align: center;
+}
